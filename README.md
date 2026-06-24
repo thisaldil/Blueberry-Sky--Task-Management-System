@@ -1,4 +1,4 @@
-# 🚀 [Project Name]
+# 🚀 Blueberry-Sky
 
 > [One-line description — what it does and who it's for]
 
